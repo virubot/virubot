@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>→ AI and web-based projects<br><br>👯 I’m looking to collaborate on<br>→ Open-source and innovative tech projects<br><br>🤝 I’m looking for help with<br>→ Advanced development and scalable systems<br><br>🌱 I’m currently learning<br>→ DSA, Machine Learning, and Backend Development<br><br>💬 Ask me about<br>→ Python, AI, and problem-solving<br><br>⚡ Fun fact<br>→ I enjoy building practical solutions through code<br>
+🔭 I’m currently working on<br>  → AI and web-based projects<br><br>👯 I’m looking to collaborate on<br>  → Open-source and innovative tech projects<br><br>🤝 I’m looking for help with<br>  → Advanced development and scalable systems<br><br>🌱 I’m currently learning<br>  → DSA, Machine Learning, and Backend Development<br><br>💬 Ask me about<br>  → Python, AI, and problem-solving<br><br>⚡ Fun fact<br>  → I enjoy building practical solutions through code<br>
 
 
 ## 🌐 Socials:
