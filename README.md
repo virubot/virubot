@@ -1,29 +1,31 @@
-<!-- ================= PREMIUM STYLED PROFILE ================= --><h1 align="center">👨‍💻 About Me</h1><p align="center">
-  <b>Building practical, high-impact solutions using AI & modern web technologies</b>
-</p><p align="center">
-  I focus on creating systems that are not just functional, but 
-  <i>efficient, scalable, and meaningful in real-world use</i>.
-</p><p align="center">
-  Currently growing in <b>Artificial Intelligence, Machine Learning, and Backend Development</b>,  
-  with a strong interest in solving complex problems through clean and reliable implementations.
-</p>---
+👨‍💻 About Me
 
-<h2 align="center">🚀 What I’m Working On</h2><p align="center">
-  ▸ AI-driven & web-based applications <br>
-  ▸ Scalable backend systems <br>
-  ▸ Real-world problem-solving projects
-</p>---
+I’m a developer focused on building practical, high-impact solutions using AI and modern web technologies. I don’t just write code—I aim to create systems that are efficient, scalable, and meaningful in real-world use.
 
-<h2 align="center">🌱 Currently Learning</h2><p align="center">
-  ◦ Data Structures & Algorithms <br>
-  ◦ Artificial Intelligence & Machine Learning (Optimization) <br>
-  ◦ Backend Architecture & Scalable Systems
-</p>---
+I’m continuously improving my skills in Artificial Intelligence, Machine Learning, and Backend Development. I enjoy breaking down complex challenges and turning them into clean, reliable implementations.
 
-<h2 align="center">🤝 Open to Collaborate</h2><p align="center">
-  Open to <b>open-source and innovative tech projects</b>  
-  where I can contribute, learn, and build with passionate developers.
-</p>
+---
+
+🚀 What I’m Working On
+
+- AI-driven and web-based applications
+- Backend systems designed for scalability
+- Projects that solve real-world problems
+
+---
+
+🌱 Currently Learning
+
+- Artificial Intelligence & GenAI
+- Machine Learning concepts and optimization
+- Backend architecture and scalable systems
+
+---
+
+🤝 Open to Collaborate
+
+I’m open to working on open-source and innovative tech projects where I can contribute, learn, and build alongside passionate developers.
+
 ---
 
 ## 🌐 Socials:
