@@ -1,6 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>  → AI and web-based projects<br><br>👯 I’m looking to collaborate on<br>  → Open-source and innovative tech projects<br><br>🤝 I’m looking for help with<br>  → Advanced development and scalable systems<br><br>🌱 I’m currently learning<br>  → DSA, Machine Learning, and Backend Development<br><br>💬 Ask me about<br>  → Python, AI, and problem-solving<br><br>⚡ Fun fact<br>  → I enjoy building practical solutions through code<br>
+👨‍💻 About Me
 
+I’m a developer focused on building practical, high-impact solutions using AI and modern web technologies. I don’t just write code—I aim to create systems that are efficient, scalable, and meaningful in real-world use.
+
+I’m continuously improving my skills in Artificial Intelligence, Machine Learning, and Backend Development. I enjoy breaking down complex challenges and turning them into clean, reliable implementations.
+
+---
+
+🚀 What I’m Working On
+
+- AI-driven and web-based applications
+- Backend systems designed for scalability
+- Projects that solve real-world problems
+
+---
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning concepts and      optimization
+- Backend architecture and scalable systems
+
+---
+
+🤝 Open to Collaborate
+
+I’m open to working on open-source and innovative tech projects where I can contribute, learn, and build alongside passionate developers.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/viren-mudigonda) 
